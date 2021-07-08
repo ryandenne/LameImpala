@@ -12,14 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Lame Impala
-##
-###
 
 - Lame Synth
 - Lame Drums
 - Lame Mumble
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
