@@ -14,7 +14,7 @@ Syntax highlighted code block
 - Lame Drums
 - Lame Mumble
 
-[Impala](https://www.turbosquid.com/3d-models/3d-impala-poses-model-1507157)
+![Dead Cartoon Impala](https://user-images.githubusercontent.com/87154429/125001097-7f53cc80-e017-11eb-92f2-965e367319de.jpg)
 ```
 
 
