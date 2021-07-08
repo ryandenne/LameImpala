@@ -1,4 +1,4 @@
-## Welcome Lame Impala
+## Welcome To Lame Impala
 
 Here everyone can appreciate how lame Tame Impala is.
 
