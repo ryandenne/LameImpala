@@ -7,6 +7,7 @@ If you ever thought your friend has a keen ear for generic drums beats, lazy gui
 ### Avg Expert Musician Rating -9.3
   (note - Rating is not 100% accurate due to the number of suicides after the musicians first listened to Tame Impala)
 
+```ruby
 # Lame Impala
 
 - Lame Synth
